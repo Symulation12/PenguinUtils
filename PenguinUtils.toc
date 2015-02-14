@@ -1,0 +1,8 @@
+## Interface: 60000
+## Title : PenguinUtils
+## Notes : When playing WoW, do as the penguins do.
+## Version : 69.69
+## Author : SymulatePenguins
+
+## SavedVariables: PenguinUtilVars
+PenguinUtils.lua
